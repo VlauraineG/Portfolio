@@ -1,8 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 * {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Poppins", sans-serif;
 }
 
 body {
@@ -117,7 +118,6 @@ body {
     color: #000000;
     text-decoration: none;
     padding: 5px 20px;
-    font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
 }
 
